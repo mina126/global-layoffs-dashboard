@@ -27,7 +27,7 @@ To identify significant layoff events and understand their impact on the job mar
 
 ## 📸 Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](pictures/Layoffs.png)
 
 ---
 
