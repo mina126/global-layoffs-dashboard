@@ -23,7 +23,7 @@ To identify significant layoff events and understand their impact on the job mar
 - `dashboard_screenshot.png`
 
 ## 📦 Data Source
-- Dataset from Kaggle: [Layoffs dataset](https://www.kaggle.com/datasets/salimwid/layoffs-2022)
+- Dataset from Kaggle: [Layoffs dataset](https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022)
 
 ## 📸 Preview
 
