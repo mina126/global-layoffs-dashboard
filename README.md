@@ -20,7 +20,7 @@ To identify significant layoff events and understand their impact on the job mar
 ## 📁 Files Included
 - `layoffs_dataset_cleaned.xlsx`
 - `global_layoffs_dashboard.pbix`
-- `dashboard_screenshot.png`
+- `Layoffs.png`
 
 ## 📦 Data Source
 - Dataset from Kaggle: [Layoffs dataset](https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022)
@@ -31,4 +31,3 @@ To identify significant layoff events and understand their impact on the job mar
 
 ---
 
-Feel free to fork, use, or suggest improvements!
